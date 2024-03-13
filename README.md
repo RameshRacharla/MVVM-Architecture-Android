@@ -1,8 +1,7 @@
 # MVVM Architecture Android  
 
 ## Android Application Architecture:
-
-The Application follows the MVVM design pattern with SDK 34 and updated Gradle file
+The Application follows the MVVM design pattern with SDK 34 and updated Gradle file using Kotlin.
 
 ## Tools and libraries used in the project:
  
