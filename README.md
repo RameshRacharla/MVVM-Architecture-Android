@@ -20,8 +20,8 @@ The Application follows the MVVM design pattern with SDK 34 and updated Gradle f
  * Android Studio for IDE 
  * Backend Database/API (Retrofit Network Services) 
    
-## Repository  Branches
+## Repository Branches
  - Master Branch
  
-## Project Authors And  Developers
+## Project Author and Developer
 - **Ramesh Racharla** 
